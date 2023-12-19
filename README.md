@@ -11,7 +11,7 @@ Current administrators of this Github account are:
 - [Barack Pearlmutter](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/barak-pearlmutter)
 - [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot)
 
-## Upadting the projects'timeline 
+## Updating the timeline for MU CS projects
 
 For CS MU staff, to have your project added to the [project Timeline](https://research.cs.nuim.ie/MUCSprojects.html), please email [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot) with the following information about your project:
 - funding agency and call programme
