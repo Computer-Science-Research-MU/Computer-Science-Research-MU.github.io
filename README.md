@@ -10,7 +10,7 @@ with up-to-date information.
 Current administrators of this Github account are:
 - [Barack Pearlmutter](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/barak-pearlmutter)
 - [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot) is managing the content of the  html pages in this repo. Note these html pages are the result of a compilation (with R) i.e.
-  - **keywords information  about academic staff interests** in ```index.html``` is **taken automatically from their Google Scholar page**
+  - **Names and keywords information  about academic staff interests** in ```index.html``` is **taken automatically from their Google Scholar page**
   - timeline ```MUCSprojects.html``` is created  with information stored and updated in an xlsx file.
 
 
