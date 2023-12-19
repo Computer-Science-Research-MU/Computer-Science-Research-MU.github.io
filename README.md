@@ -23,3 +23,14 @@ For CS MU staff, to have your (past, current, upcoming) project added to the <a 
 - the end date of the project  (e.g. 01/10/2023)
 - the names MU CS academic staff involved in that project (these names appear when overing on the box of the project with the mouse)
 - the url to that project page that provides more information (e.g. abstract,  students/staff working on that project, etc.)
+
+## Updating the timeline for other MU CS academic contributions to CS discipline
+
+A new timeline ```MUCSworks.html``` is under construction and visible [here](https://research.cs.nuim.ie/MUCSworks.html). It aims at capturing some other (time consuming!) research related activities that MU CS academics contribute to such as conference organisation, reviewer, editor, etc. 
+
+For CS MU staff, to have an (past, current, upcoming) activity or event added, please email <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot" target="_blank">Rozenn Dahyot</a> with the following information:
+- name of event/activity
+- your role in that event/activity
+- start date and end date
+- url of that event
+  
