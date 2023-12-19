@@ -21,5 +21,5 @@ For CS MU staff, to have your project added to the <a href="https://research.cs.
 - the acronym and the title of the project
 - the start date of the project  (e.g. 01/01/1970)
 - the end date of the project  (e.g. 01/10/2023)
-- the names MU CS academic staff involved in that project
+- the names MU CS academic staff involved in that project (these names appear when overing on the box of the project with the mouse)
 - the url to that project page that provides more information (e.g. abstract,  students/staff working on that project, etc.)
