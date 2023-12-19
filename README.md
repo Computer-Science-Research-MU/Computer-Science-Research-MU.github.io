@@ -14,9 +14,9 @@ Current administrators of this Github account are:
 ## Updating the timeline for MU CS projects
 
 For CS MU staff, to have your project added to the <a href="https://research.cs.nuim.ie/MUCSprojects.html" target="_blank">project Timeline</a>, please email []<a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot" target="_blank">Rozenn Dahyot</a> with the following information about your project:
-- funding agency and call programme
+- funding agency and call programme (e.g. EU, SFI , EPA, EI, IRC, Start-up, etc.)
 - the acronym and the title of the project
-- the start date of the project
-- the end date of the project
-- the names MU CS staff involved in that project
-- the url to that project page that provide more information (e.g. abstract)
+- the start date of the project  (e.g. 01/01/1970)
+- the end date of the project  (e.g. 01/10/2023)
+- the names MU CS academic staff involved in that project
+- the url to that project page that provides more information (e.g. abstract,  students/staff working on that project, etc.)
