@@ -4,7 +4,7 @@ Computer Science Research in Maynooth University (Ireland)
 This repo is a website under development that is hosted at <a href="https://research.cs.nuim.ie" target="_blank">https://research.cs.nuim.ie</a>.
 It has the purpose of  providing additional up-to-date information about our research activities, complementing the official Maynooth Computer Science departmental webpage <a href="https://www.maynoothuniversity.ie/computer-science" target="_blank">https://www.maynoothuniversity.ie/computer-science</a>. 
 
-### Administrators
+## Information for MU CS staff
 
 Current administrators of this Github account are:
 - [Barack Pearlmutter](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/barak-pearlmutter)
@@ -32,4 +32,5 @@ For CS MU staff, to have an (past, current, upcoming) activity or event added, p
 - your role in that event/activity
 - start date and end date
 - url of that event
+
   
