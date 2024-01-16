@@ -13,7 +13,7 @@ Current administrators of this Github account are:
   -  ```MUCSprojects.html``` and ```MUCSworks.html``` are  timelines created  with R.  
 
 
-**Updating the timeline** ```MUCSprojects.html``` 
+### **Updating the timeline** ```MUCSprojects.html``` 
 
 For CS MU staff, to have your (past, current, upcoming) projects added to the <a href="https://research.cs.nuim.ie/MUCSprojects.html" target="_blank">project Timeline</a>, please email <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot" target="_blank">Rozenn Dahyot</a> with the following information about your project:
 - funding agency and call programme (e.g. EU, SFI , EPA, EI, IRC, Start-up, etc.)
@@ -23,7 +23,7 @@ For CS MU staff, to have your (past, current, upcoming) projects added to the <a
 - the names MU CS academic staff involved in that project (these names appear when overing on the box of the project with the mouse)
 - the url to that project page that provides more information (e.g. abstract,  students/staff working on that project, etc.)
 
-**Updating the timeline** ```MUCSworks.html``` 
+### **Updating the timeline** ```MUCSworks.html``` 
 
 A new timeline ```MUCSworks.html``` is under construction and visible [here](https://research.cs.nuim.ie/MUCSworks.html). It aims at capturing some other (time consuming!) research related activities that MU CS academics contribute to such as conference organisation, reviewer, editor, etc. 
 
