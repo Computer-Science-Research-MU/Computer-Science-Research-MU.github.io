@@ -33,4 +33,11 @@ For CS MU staff, to have an (past, current, upcoming) activity or event added, p
 - start date and end date
 - url of that event
 
-  
+## Folder Slides
+
+
+- Code used come from quarto demo at <https://github.com/quarto-dev/quarto-web/tree/main/docs/presentations/revealjs/demo>
+
+- Slides can be seen at <https://research.cs.nuim.ie/Slides/>
+
+
