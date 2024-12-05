@@ -1,0 +1,22 @@
+## Ralf Bierig
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-    Virtual Reality 
+-    Human-Computer Interaction 
+-    Information Behaviour 
+-    Interactive Information Retrieval
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=PDb_0lwAAAAJ&citpid=4){.absolute top="150" left="600" width="20%" }
+
+:::
+:::
+

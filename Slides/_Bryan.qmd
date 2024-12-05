@@ -1,0 +1,23 @@
+## Bryan Hennelly
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-    Microscopy 
+-    Image Processing 
+-    Optics 
+-    Raman spectroscopy 
+-    holographic microscopy
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Electronic_Engineering---Bryan_Hennelly---NUI-Maynooth.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
+

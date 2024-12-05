@@ -1,0 +1,22 @@
+## Thomas Naughton
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-   Optical image processing 
+-   Optical computing 
+-   Digital holography
+-   Parallel computing
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Tom%20Naughton%20web.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
+

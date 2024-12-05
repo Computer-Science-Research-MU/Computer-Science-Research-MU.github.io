@@ -1,0 +1,21 @@
+## Stephen Brown
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-    Embedded networking 
+-    wireless sensor 
+-    Actuator networking
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Stephen%20Brown%20web.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
+

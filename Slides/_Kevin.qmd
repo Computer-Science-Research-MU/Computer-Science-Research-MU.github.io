@@ -1,0 +1,23 @@
+## Kevin Casey
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-    Virtual Machines 
+-    Compilers 
+-    Programming Languages 
+-    Web Development 
+-    Cloud Computing
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
+

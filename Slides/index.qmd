@@ -1,0 +1,49 @@
+---
+title: "Computer Science" 
+subtitle: <img src="MaynoothUniversityLogocolourRGB300dpi.png"  align="centre" width="30%">
+format:
+  revealjs: 
+    auto-slide: 5000
+    loop: true
+    embed-resources: false
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: MU.png
+    css: styles.css
+    footer: '[https://www.maynoothuniversity.ie/computer-science/our-people](https://www.maynoothuniversity.ie/computer-science/our-people)'
+resources:
+  - demo.pdf
+---
+
+{{< include _Aidan.qmd >}}
+
+{{< include _Ralf.qmd >}}
+
+{{< include _Stephen.qmd >}}
+
+{{< include _Rozenn.qmd >}}
+
+{{< include _John.qmd >}}
+
+<!--
+{{< include _Kevin.qmd >}}
+-->
+
+{{< include _Edgar.qmd >}}
+
+{{< include _Bryan.qmd >}}
+
+{{< include _Rosemary.qmd >}}
+
+{{< include _Charles.qmd >}}
+
+{{< include _Tim.qmd >}}
+
+{{< include _Barack.qmd >}}
+
+{{< include _Peter.qmd >}}
+
+{{< include _Tom.qmd >}}
+

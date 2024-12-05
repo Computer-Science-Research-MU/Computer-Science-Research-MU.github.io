@@ -1,0 +1,23 @@
+## Peter Mooney
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-   Volunteered Geographic Information 
+-   Citizen Science 
+-   Open Data 
+-   Big Spatial Data 
+-   OpenStreetMap
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wVs_9twAAAAJ&citpid=3){.absolute top="150" left="600" width="20%" }
+
+:::
+:::
+

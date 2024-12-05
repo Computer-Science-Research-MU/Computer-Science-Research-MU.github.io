@@ -1,0 +1,21 @@
+## Tim McCarthy
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-    Geospatial Science 
+-   Geospatial Technology
+-    Drones 
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Tim-McGrath.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
+

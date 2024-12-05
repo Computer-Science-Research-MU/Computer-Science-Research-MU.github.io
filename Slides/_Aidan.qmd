@@ -1,0 +1,22 @@
+## Aidan Mooney
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-   Computer Science Education 
+-   Large Class Teaching 
+-   Eye-tracking 
+-   Automated Feedback and Assessment
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Aidan-Mooney---NUI-Maynooth.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
+

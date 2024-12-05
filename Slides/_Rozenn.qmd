@@ -1,0 +1,23 @@
+## Rozenn Dahyot 
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-   Pattern Recognition, 
+-   AI & Deep Learning, 
+-   Statistics & Machine Learning
+-   Computer Vision & Graphics  
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Rozenn.jpg){.absolute top="150" left="600" width="30%" height="30%"}
+
+:::
+:::
+
+
