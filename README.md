@@ -7,7 +7,7 @@ It has the purpose of  providing additional up-to-date information about our res
 ## Information for MU CS staff
 
 Current administrators of this Github account are:
-- [Barack Pearlmutter](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/barak-pearlmutter)
+- [Barak Pearlmutter](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/barak-pearlmutter)
 - [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot) is currently managing the content of the  html pages in this repo. Note these html pages are the result of a compilation (with R) i.e.
   - ```index.html``` is generated with R and both **names and keywords information  about academic staff interests** is taken automatically from staff Google Scholar page.
   -  ```MUCSprojects.html``` and ```MUCSworks.html``` are  timelines created  with R.  

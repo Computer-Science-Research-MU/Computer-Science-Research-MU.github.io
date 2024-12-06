@@ -41,7 +41,7 @@ resources:
 
 {{< include _Tim.qmd >}}
 
-{{< include _Barack.qmd >}}
+{{< include _Barak.qmd >}}
 
 {{< include _Peter.qmd >}}
 
