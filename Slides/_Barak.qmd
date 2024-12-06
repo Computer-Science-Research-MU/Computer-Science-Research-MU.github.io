@@ -1,0 +1,20 @@
+## Barak A. Pearlmutter
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-    Neural Networks &amp; Machine Learning, Novel Architectures, Safety
+-    Automatic Differentiation, Functional Programming, Programming Languages for Adaptive Computing
+-    Theoretical Neurobiology: Optimality, Sensory Processing, Criticality, Sleep
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Barak%20Pearlmutter%20web.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
