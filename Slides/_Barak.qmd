@@ -5,9 +5,11 @@
 
 Research interests:
 
--    Neural Networks &amp; Machine Learning, Novel Architectures, Safety
--    Automatic Differentiation, Functional Programming, Programming Languages for Adaptive Computing
--    Theoretical Neurobiology: Optimality, Sensory Processing, Criticality, Sleep
+-  Computational Neuroscience
+-  Theoretical Neurobiology 
+-  Machine Learning 
+-  Recurrent Neural Networks
+-  Automatic Differentiation
 
 
 :::
