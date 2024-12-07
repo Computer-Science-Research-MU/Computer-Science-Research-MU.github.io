@@ -27,6 +27,12 @@ resources:
 
 {{< include _John.qmd >}}
 
+{{< include _AIRobotics.qmd >}}
+
+{{< include _Charles.qmd >}}
+
+{{< include _Tim.qmd >}}
+
 <!--
 {{< include _Kevin.qmd >}}
 -->
@@ -37,9 +43,6 @@ resources:
 
 {{< include _Rosemary.qmd >}}
 
-{{< include _Charles.qmd >}}
-
-{{< include _Tim.qmd >}}
 
 {{< include _Barak.qmd >}}
 
@@ -48,5 +51,7 @@ resources:
 {{< include _Tom.qmd >}}
 
 {{< include _Damien.qmd >}}
+
+{{< include _DNAcomputing.qmd >}}
 
 {{< include _Hao.qmd >}}

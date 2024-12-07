@@ -1,0 +1,18 @@
+## DNA computing {background="#43464B" background-image="images/dna.jpg"}
+
+::: columns
+::: {.column width="60%"}
+
+<https://disco-tech.eu>
+
+
+
+:::
+
+::: {.column width="40%"}
+
+![](images/disco.jpg){.absolute top="150" left="700" width="40%" }
+
+:::
+:::
+
