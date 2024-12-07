@@ -1,0 +1,23 @@
+## Hao Wu
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-    Formal Methods 
+-    SAT/SMT 
+-    Specification 
+-   Programming Languages 
+-   Model-Driven Engineering
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Hao%20Wu%20Web.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
+

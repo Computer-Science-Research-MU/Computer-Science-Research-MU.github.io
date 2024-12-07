@@ -47,3 +47,6 @@ resources:
 
 {{< include _Tom.qmd >}}
 
+{{< include _Damien.qmd >}}
+
+{{< include _Hao.qmd >}}

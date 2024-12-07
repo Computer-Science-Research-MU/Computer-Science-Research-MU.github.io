@@ -1,0 +1,23 @@
+## Damien Woods
+
+::: columns
+::: {.column width="60%"}
+
+Research interests:
+
+-  molecular programming 
+-  models of computation 
+-  optical computing 
+-  small universal Turing machines 
+-  algorithms complexity theory
+
+
+:::
+
+::: {.column width="40%"}
+
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/DamianWoods_MaynoothUniversity.jpg){.absolute top="150" left="600" width="40%" }
+
+:::
+:::
+
