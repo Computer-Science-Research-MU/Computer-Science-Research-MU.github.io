@@ -16,7 +16,7 @@ Research interests:
 
 ::: {.column width="40%"}
 
-![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Barak%20Pearlmutter%20web.jpg){.absolute top="150" left="600" width="40%" }
+![](https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Barak%20Pearlmutter%20Web.jpg){.absolute top="150" left="600" width="40%" }
 
 :::
 :::
