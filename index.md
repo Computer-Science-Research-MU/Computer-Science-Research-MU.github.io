@@ -12,7 +12,7 @@ We share  our <a href="https://research.cs.nuim.ie/News/" target="_blank">CS Dep
 
 
 
-Our department has been successful in getting **research funding** over the years for instance  from Science Foundation Ireland, Enterprise Ireland, the Irish Research Council, and the European Union.
+Our department has been successful in getting research funding over the years for instance  from [Research Ireland](https://www.researchireland.ie/), [Enterprise Ireland](https://www.enterprise-ireland.com/en/), the [Irish Research Council](https://research.ie/), and the European Union.
 This <a href="MUCSprojects.html" target="_blank">timeline</a> shows our on-going research projects and collaborations  with national research centres.   
 
 
