@@ -75,14 +75,11 @@ Below examples of (competitive) funding available for prospective research stude
 
 # Contact 
 
+```
 Department of Computer Science
-
 Eolas Building
-
 North Campus
-
 Maynooth University
-
 Maynooth, Co Kildare, Ireland
-
+```
 Email: <a href="mailto:computerscience.department@mu.ie">computerscience.department@mu.ie</a>
