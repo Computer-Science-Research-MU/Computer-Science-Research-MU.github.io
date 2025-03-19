@@ -18,7 +18,7 @@ Our on-going research projects and collaborations  with national research centre
 
 
 
-Computer Science Department in Maynooth is also on <a href="https://www.linkedin.com/company/computer-science-maynooth-university/" target="_blank">LinkedIn <i class="fa fa-linkedin-square"></i></a>.
+Computer Science Department in Maynooth is also on <a href="https://www.linkedin.com/company/computer-science-maynooth-university/" target="_blank">LinkedIn</a>.
 
 ## Research areas
 
