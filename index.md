@@ -11,6 +11,10 @@ The NUI Computer Science departments continue together to be the top
 We share  our <a href="https://research.cs.nuim.ie/News/" target="_blank">CS Department Annual Report summaries and publications</a> and a <a href="https://research.cs.nuim.ie/Slides/" target="_blank">slide presentation</a> of MU CS department. 
 
 
+This <a href="MUCSprojects.html" target="_blank">timeline</a> shows our on-going research projects and collaborations  with national research centres.   
+
+
+
 Computer Science Department in Maynooth is also on <a href="https://www.linkedin.com/company/computer-science-maynooth-university/" target="_blank">LinkedIn</a>.
 
 ## Research areas
@@ -25,8 +29,6 @@ Our research themes and applications  are:
 
 
 Our department has been successful in getting **research funding** over the years for instance  from Science Foundation Ireland, Enterprise Ireland, the Irish Research Council, and the European Union.
-
-This <a href="MUCSprojects.html" target="_blank">timeline</a> shows our on-going research projects and collaborations  with national research centres.   
 
 
 
