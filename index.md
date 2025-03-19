@@ -1,10 +1,11 @@
 
 # Welcome
 
-This page provides information on Research in <a href="https://www.maynoothuniversity.ie/computer-science" target="_blank">Department of Computer Science</a> at <a href="https://en.wikipedia.org/wiki/Maynooth_University" target="_blank">Maynooth University (MU)</a> in Ireland.
+This page provides information on Research in the <a href="https://www.maynoothuniversity.ie/computer-science" target="_blank">Department of Computer Science</a> at <a href="https://en.wikipedia.org/wiki/Maynooth_University" target="_blank">Maynooth University (MU)</a> in Ireland.
+
 The CS department at MU (also known as National University of Ireland Maynooth NUIM) is a member of the  <a href="https://www.nui.ie/links/" target="_blank">National University of Ireland (NUI)</a>. 
 The NUI Computer Science departments continue together to be the top 
- best Universities for Computer Science in Ireland in 2023 according to <a href="https://research.com/university-rankings/computer-science/ie" target="_blank">research.com</a>. 
+ best Universities for Computer Science in Ireland in 2024 according to <a href="https://research.com/university-rankings/computer-science/ie" target="_blank">research.com</a>. 
  
  
 We share  our <a href="https://research.cs.nuim.ie/News/" target="_blank">CS Department Annual Report summaries and publications</a> and a <a href="https://research.cs.nuim.ie/Slides/" target="_blank">slide presentation</a> of MU CS department. 
@@ -25,20 +26,19 @@ Our research themes and applications  are:
 
 Our department has been successful in getting **research funding** over the years for instance  from Science Foundation Ireland, Enterprise Ireland, the Irish Research Council, and the European Union.
 
-- This **<a href="MUCSprojects.html" target="_blank">timeline</a>** shows our on-going research projects and collaborations  with national research centres.   
+This <a href="MUCSprojects.html" target="_blank">timeline</a> shows our on-going research projects and collaborations  with national research centres.   
 
-- This 
-**<a href="https://scholar.google.com/citations?hl=en&amp;user=Fax186kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">departmental
-Google Scholar Webpage</a>** lists our publications.
+
 
 ## Information for students 
 
-The  information  page for prospective and  current research postgraduate students is **<a href="https://research.cs.nuim.ie/Postgraduate/" target="_blank">available here</a>**.   
+The  information  page for prospective and  current research postgraduate students is <a href="https://research.cs.nuim.ie/Postgraduate/" target="_blank">available here</a>.   
 
 
-# CS Department Staff
+# CS Staff
 
 The list of academics, admin and technical support  in the MU CS department is available at <a  href="https://www.maynoothuniversity.ie/computer-science/our-people" target="_blank">https://www.maynoothuniversity.ie/computer-science/our-people</a>. 
+
 Please browse individual academic webpages to learn about their respective areas of expertise. 
 
 
@@ -58,8 +58,6 @@ Depending on ongoing funded projects and research interests, several academics h
 
 
 #  Open positions
-
-
 
 
 Below examples of (competitive) funding available for prospective research students and research fellows: 
