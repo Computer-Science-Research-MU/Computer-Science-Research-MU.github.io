@@ -1,29 +1,3 @@
----
-title: "Computer Science Research"
-subtitle: "Maynooth University Ireland"
-author: "Prof. Rozenn Dahyot"
-date:  "Updated: `r format(Sys.time(), '%d %B, %Y')`"
-output: 
-  rmdformats::robobook:
-    downcute_theme: chaos
-    number_sections: false
-    default_style: dark
-    html_document:
-      toc: true
-      toc_depth: 2
-      toc_float: true
-    includes:
-       in_header: header.html
-    self_contained: true
----
-
-```{r setup, include=FALSE,warning=FALSE, message=FALSE}
-knitr::opts_chunk$set(echo = TRUE) 
-render = 'normal_print'
-
-
-# https://cran.r-project.org/web/packages/rmdformats/readme/README.html
-```
 
 # Welcome
 
