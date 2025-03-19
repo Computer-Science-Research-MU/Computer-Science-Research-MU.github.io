@@ -14,7 +14,7 @@ The NUI Computer Science departments continue together to be the top
 
 > Our department has been successful in getting research funding over the years for instance  from [Research Ireland](https://www.researchireland.ie/), [Enterprise Ireland](https://www.enterprise-ireland.com/en/), the [Irish Research Council](https://research.ie/), and the [European Union](https://erc.europa.eu/homepage).
 
-Our on-going research projects and collaborations  with national research centres are shown on this <a href="MUCSprojects.html" target="_blank">timeline</a> .   
+> Our on-going research projects and collaborations  with national research centres are shown on this <a href="MUCSprojects.html" target="_blank">timeline</a> .   
 
 
 
