@@ -10,6 +10,7 @@ The NUI Computer Science departments continue together to be the top
  
 > We share  our <a href="https://research.cs.nuim.ie/News/" target="_blank">CS Department Annual Report summaries and publications</a> and a <a href="https://research.cs.nuim.ie/Slides/" target="_blank">slide presentation</a> of MU CS department. 
 
+[<img src="timeline.png" alt="Timeline Research Projects" height="32" />](MUCSprojects.html)
 
 
 > Our department has been successful in getting research funding over the years for instance  from [Research Ireland](https://www.researchireland.ie/), [Enterprise Ireland](https://www.enterprise-ireland.com/en/), the [Irish Research Council](https://research.ie/), and the [European Union](https://erc.europa.eu/homepage).
