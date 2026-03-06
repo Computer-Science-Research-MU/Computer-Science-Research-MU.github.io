@@ -24,7 +24,8 @@ Our research themes and applications include:
 - Software Verification and Theoretical Computer Science
 - DNA Computing
 - Algorithms and Optimization
-- Applications: Computer Vision, Robotics, GeoScience, Augmented Reality, Multimedia processing, Computer Science Education.
+- Computer Science Education
+- Applications: Computer Vision, Robotics, GeoScience, Augmented Reality, Multimedia processing, Image computing.
 
 More information can be found on academic staff webpages:
 
